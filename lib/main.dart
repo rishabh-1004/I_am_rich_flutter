@@ -12,8 +12,7 @@ void main() {
           ),
           body: Center(
             child: Image(
-              image:
-                  NetworkImage('https://static.toiimg.com/photo/72975551.cms'),
+              image: AssetImage('images/diamond.png'),
             ),
           )),
     ),
